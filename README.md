@@ -9,7 +9,10 @@
 
 * A hashtag - # within a hyperlink specifies an html element id to which the window should be scrolled.
 
-* href="#some-id" would scroll to an element on the current page such as ```html <div id="some-id"> ```.
+* href="#some-id" would scroll to an element on the current page such as 
+```html 
+<div id="some-id"> 
+```
 
 * href="//site.com/#some-id" would go to site.com and scroll to the id on that page.
 
@@ -44,4 +47,5 @@ A blank href property is actually a hyperlink to the current page. In other word
 ###Further Reading
 
 [Don't use href to create empty links](http://paintincode.blogspot.in/2012/03/dont-use-to-create-empty-links.html)
+
 [What is href and why it is used](http://stackoverflow.com/questions/4855168/what-is-href-and-why-is-it-used)
