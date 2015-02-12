@@ -46,6 +46,6 @@ A blank href property is actually a hyperlink to the current page. In other word
 
 ###Further Reading
 
-[Don't use href to create empty links.](http://paintincode.blogspot.in/2012/03/dont-use-to-create-empty-links.html)
+* [Don't use href to create empty links.](http://paintincode.blogspot.in/2012/03/dont-use-to-create-empty-links.html)
 
-[What is href and why it is used.](http://stackoverflow.com/questions/4855168/what-is-href-and-why-is-it-used)
+* [What is href and why it is used.](http://stackoverflow.com/questions/4855168/what-is-href-and-why-is-it-used)
